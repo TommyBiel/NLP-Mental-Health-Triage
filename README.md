@@ -1,5 +1,4 @@
 # Mental Health NLP Classification: Automated Triage Engine
-<img width="3012" height="1176" alt="bigram_linear_regression" src="https://github.com/user-attachments/assets/c6f1da8f-dd09-4917-9952-1eb259e612bd" />
 
 ## 📌 Project Overview
 Human moderators for online platforms cannot manually read and triage tens of thousands of user text logs in real-time. This project builds a Natural Language Processing (NLP) Machine Learning pipeline designed to automatically classify text into four categories: **Anxiety, Depression, Normal, and Suicidal**. 
@@ -30,7 +29,7 @@ Through hyperparameter tuning, the model demonstrated the Law of Diminishing Ret
 * **Suicidal:** 70.0%
 * **Depression:** 64.6%
 
-*(Insert your custom Matplotlib grouped bar chart image here! Just drag and drop the image file into the GitHub text box and it will generate the link automatically.)*
+<img width="3012" height="1176" alt="bigram_linear_regression" src="https://github.com/user-attachments/assets/c6f1da8f-dd09-4917-9952-1eb259e612bd" />
 
 ## 🚀 Next Steps & Future Improvements
 To break past the 80% accuracy ceiling established by this baseline model, future iterations would require abandoning linear models in favor of:
